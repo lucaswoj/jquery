@@ -6,7 +6,7 @@
 4. [Core Style Guide](#jquery-core-style-guide)
 5. [Tips For Bug Patching](#tips-for-bug-patching)
 
-
+WHDL IS GREAT
 
 ## Getting Involved
 
